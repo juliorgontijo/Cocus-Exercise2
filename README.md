@@ -21,4 +21,4 @@ else if (message is MessageC)
 
 
 <p>Is ineficient and does not follow the open/closed principle of SOLID.</p>
-<p>This solutions offers a more elegant approach using polymorphism.</p>
+<p>The solution proposed on this repository offers a more elegant approach using polymorphism.</p>
